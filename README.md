@@ -22,6 +22,28 @@ This project trains regression models on a student performance dataset and serve
   - 📉 **Visualizations** — actual vs. predicted scatter plot, residual plot, and score distribution
 - **Leakage-safe** — drops `student_id` (identifier) and `final_grade` (derived from the target) before training
 
+## 🖼️ Screenshots
+
+<!-- Paste each image link between the parentheses, e.g. ![Dashboard](https://raw.githubusercontent.com/Rohit0847/SCORE-PREDICTION---MULTIPLE-REGRESSION-MODEL/main/model%202/OUTPUT/dashboard.png) -->
+
+**App — Dashboard**
+![Dashboard]()
+
+**App — Dataset Explorer**
+![Dataset Explorer]()
+
+**App — Model Performance**
+![Model Performance]()
+
+**Visualization — Actual vs Predicted Scores**
+![Actual vs Predicted]()
+
+**Visualization — Residual Plot**
+![Residual Plot]()
+
+**Visualization — Final Exam Score Distribution**
+![Score Distribution]()
+
 ## 🗂️ Project Structure
 
 > ⚠️ In the current repo, the project files live inside the `model 2/` folder. Update the commands below (or move the files to the repo root) so the paths match your actual layout.
